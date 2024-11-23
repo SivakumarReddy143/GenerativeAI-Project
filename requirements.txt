@@ -1,0 +1,23 @@
+python-dotenv
+langchain-google-genai
+ipykernel
+langchain
+langchain-community
+langchain-core
+bs4
+faiss-cpu
+streamlit
+pypdf
+langchain-huggingface
+langchain-groq
+wikipedia
+arxiv
+setuptools
+pillow
+python-dotenv
+streamlit
+google-generativeai
+pyttsx3
+SpeechRecognition
+PyAudio
+-e .
